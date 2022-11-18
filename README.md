@@ -1,2 +1,2 @@
-# hatabildir.feign-wiki.tk
-hatabildir.feign-wiki.tk sitesinin kaynak kodu.
+# bug.feign-wiki.tk
+bug.feign-wiki.tk sitesinin kaynak kodu.
